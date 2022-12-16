@@ -1,0 +1,17 @@
+{
+    "name": "TestApp",
+    "title": "Test application",
+    "description": "Some text for the super user.",
+    "readme": "Important message for administrators",
+    "version": "1.0.0",
+    "icon": "check-circle",
+    "url": "https://chat.openai.com/chat",
+    "author": "Peter Širka",
+    "email": "petersirka@gmail.com",
+    "roles": ["create", "read", "update"],
+    "origin": ["IP_address"],
+    "allowreadmeta": true,
+    "allowreadprofile": 1,
+    "allowreadusers": 1,
+    "allownotifications": true
+}
